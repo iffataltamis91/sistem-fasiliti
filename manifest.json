@@ -17,5 +17,8 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "description": "Sistem tempahan fasiliti dan bilik untuk kegunaan warga SMKA Maahad Muar",
+  "id": "M-FASILITI",
+  "lang": "ms"
 }
